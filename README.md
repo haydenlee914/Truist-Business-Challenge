@@ -6,8 +6,6 @@ The financial sector, particularly banking, is increasingly investing in technol
 
 ## *Data*
 
-### Data Preparation
-
 The challenge involves analyzing various datasets, including customer transactions, feedback, and interactions across different platforms to identify patterns and sentiments related to security concerns.
 
 
